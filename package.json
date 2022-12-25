@@ -1,0 +1,24 @@
+{
+  "name": "learn-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TR0205/Learn-GraphQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TR0205/Learn-GraphQL/issues"
+  },
+  "homepage": "https://github.com/TR0205/Learn-GraphQL#readme",
+  "dependencies": {
+    "apollo-server": "^2.26.1",
+    "graphql": "^14.7.0"
+  }
+}
